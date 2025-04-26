@@ -1,3 +1,4 @@
+# simple program to check whether the string is palindrome or not
 import string
 
 def is_palindrome(s: str) -> bool:

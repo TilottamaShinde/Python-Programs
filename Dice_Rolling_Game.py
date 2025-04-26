@@ -1,3 +1,4 @@
+#simple program for dice rolling game
 import random
 
 while True:

@@ -29,7 +29,7 @@ def percentage(total,part):
         return "Error: Total Cannot be 0 while calculating percentage"
     return (part / total) * 100
 
-
+# function for displaying menu
 def display_menu():
     print("Select Operation : ")
     print("1. Addition")

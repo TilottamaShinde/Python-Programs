@@ -3,5 +3,5 @@ Collection of Simple Python Programs I created while learning and practicing.
 
 It has programs such as: -
 
-1. 
-Dice Rolling Game
+1. Dice Rolling Game
+2. Mathematic Operations

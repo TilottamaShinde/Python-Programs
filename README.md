@@ -8,3 +8,4 @@ It has programs such as: -
 3. Palindrome Checker
 4. Tower of Honoi
 5. Permutation
+6. Stack_exp - Stack implementation using List

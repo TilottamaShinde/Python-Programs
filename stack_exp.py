@@ -23,6 +23,7 @@ class Stack:
         return len(self.stack)
 
 
+# Example usage 
 s = Stack()
 s.push(10)
 s.push(20)

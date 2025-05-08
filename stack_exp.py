@@ -30,7 +30,7 @@ s.push(20)
 s.push(30)
 
 
-print("Top element : ", s.peek())
+print("Top element : ", s.peek())         # Output: 30
 print("Stack size : ", s.size())
 
 print("Popped : ", s.pop())

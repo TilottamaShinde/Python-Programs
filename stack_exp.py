@@ -33,8 +33,8 @@ s.push(30)
 print("Top element : ", s.peek())             # Output: 30
 print("Stack size : ", s.size())            # Output: 3
 
-print("Popped : ", s.pop())             # Output: 20
-print("Top after pop : ", s.peek())
+print("Popped : ", s.pop())             # Output: 30
+print("Top after pop : ", s.peek())        # Output: 20
 print("Is stack empty?", s.is_empty())
 
 s.pop()

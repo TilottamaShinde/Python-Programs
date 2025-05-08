@@ -9,3 +9,4 @@ It has programs such as: -
 4. Tower of Honoi
 5. Permutation
 6. Stack_exp - Stack implementation using List
+7. ArmstrongNum

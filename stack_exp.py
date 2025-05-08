@@ -39,7 +39,7 @@ print("Is stack empty?", s.is_empty())
 
 s.pop()
 s.pop()
-print("Is stack empty? ", s.is_empty())
+print("Is stack empty? ", s.is_empty())            # Output: True
 print("Pop from empty stack : ", s.pop())
 
 

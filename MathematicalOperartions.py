@@ -5,6 +5,8 @@
 # 4. DivisionImpossible
 # 5. Percentage
 
+
+
 #Function for addition
 def add(num1,num2):
     return num1 + num2

@@ -11,6 +11,7 @@ while num > 0:
     sum_of_power += digit ** num_digit
     num = num // 10
 
+
 if sum_of_power == original_num:
     print("It is Armstrong Number")
 else:

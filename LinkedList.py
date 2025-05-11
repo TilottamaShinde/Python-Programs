@@ -37,3 +37,12 @@ print_list(head)
 reversed_head = reverse_recursive(head)
 print("Reversed List : ")
 print_list(reversed_head)
+
+
+# Output 
+''' 
+Original List : 
+1 -> 2 -> 3 -> 4 -> None
+Reversed List : 
+4 -> 3 -> 2 -> 1 -> None
+'''

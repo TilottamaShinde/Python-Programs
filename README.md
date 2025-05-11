@@ -12,3 +12,4 @@ It has programs such as: -
 7. ArmstrongNum
 8. Factorial of a Number
 9. Linked List
+10. detect_loop_in_linked_list

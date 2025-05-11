@@ -37,20 +37,3 @@ print_list(head)
 reversed_head = reverse_recursive(head)
 print("Reversed List : ")
 print_list(reversed_head)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

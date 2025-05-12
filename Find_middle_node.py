@@ -41,3 +41,12 @@ for val in [10, 20, 30, 40, 50]:
 
 ll.display()
 print("Middle Node : ", ll.find_middle())
+
+
+
+'''
+Output:
+
+10 -> 20 -> 30 -> 40 -> 50 -> None
+Middle Node :  30
+'''

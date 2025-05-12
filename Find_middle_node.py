@@ -8,7 +8,7 @@ class LinkedList:
         self.head = None
 
     def append(self, data):
-
+        #insert new node at the end 
         new_node = Node(data)
         if  not self.head:
             self.head = new_node

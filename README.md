@@ -14,3 +14,4 @@ It has programs such as: -
 9. Linked List
 10. detect_loop_in_linked_list
 11. Find_middle_node
+12. Check if Linked List is Palindrome	

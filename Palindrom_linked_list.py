@@ -50,6 +50,6 @@ def build_linked_list(values):
 head1 = build_linked_list([1, 2, 3, 4])
 head2 = build_linked_list([1, 2, 3, 2, 1])
 
-print(is_palindrome(head1))
-print(is_palindrome(head2))
+print(is_palindrome(head1))            #output: False
+print(is_palindrome(head2))            #output: True
 

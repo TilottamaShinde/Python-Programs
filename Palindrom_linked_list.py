@@ -17,11 +17,12 @@ def is_palindrome(head):
         fast = fast.next.next
 
     # Step 2: Reverse second half
-    temp = slow.next
     prev = None
-    slow.next = prev
-    prev = slow
-    slow = temp
+    while slow:
+        temp = slow.next
+        slow.next = prev
+        prev = slow
+        slow = temp
 
     # Step 3: Compare bot halves
     left =  head

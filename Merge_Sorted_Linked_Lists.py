@@ -56,3 +56,9 @@ merged = merge_sorted_lists(l1, l2)
 print("Merged List : ")
 print_linked_list(merged)
 
+''' 
+Output:
+
+Merged List : 
+1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> None
+'''

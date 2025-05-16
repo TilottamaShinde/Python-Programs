@@ -13,7 +13,7 @@ def remove_duplicate(head):
             current.next = current.next.next            #skip duplicates
         else:
             current = current.next
-        return head
+    return head
 
 # Helper function to build a linked list
 def build_linked_list(values):

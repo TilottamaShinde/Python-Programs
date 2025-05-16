@@ -45,3 +45,13 @@ print_linked_list(head)
 head = remove_duplicates_unsorted(head)
 print("After Removing Duplicates : ")
 print_linked_list(head)
+
+'''
+Output: 
+
+Original List: 
+4 -> 2 -> 3 -> 2 -> 4 -> 1 -> 5 -> 1 -> 3 -> None
+After Removing Duplicates : 
+4 -> 2 -> 3 -> 1 -> 5 -> None
+
+'''

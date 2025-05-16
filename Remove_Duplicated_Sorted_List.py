@@ -42,3 +42,11 @@ print_linked_list(head)
 head = remove_duplicate(head)
 print("Ater Removing Duplicates : ")
 print_linked_list(head)
+
+'''
+Output: 
+Original List : 
+1 -> 1 -> 2 -> 3 -> 4 -> 5 -> 5 -> None
+Ater Removing Duplicates : 
+1 -> 2 -> 3 -> 4 -> 5 -> None
+'''

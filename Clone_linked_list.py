@@ -71,26 +71,16 @@ clone_head = clone_linked_list_with_random(n1)
 print("\nCloned List : ")
 print_linked_list_with_random(clone_head)
 
+'''
+Original List : 
+Value : 1, Random: 3
+Value : 2, Random: 1
+Value : 3, Random: 2
+
+Cloned List : 
+Value : 1, Random: 3
+Value : 2, Random: 1
+Value : 3, Random: 2
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+'''

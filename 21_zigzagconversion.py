@@ -34,3 +34,25 @@ s2 = "HELLOZIGZAG"
 rows2 = 4
 result2 = zifzag_convert(s2, rows2, print_rows = True)
 print("\nFinal zigzag conversion output : ", result2)
+
+
+'''
+Output: 
+
+ Zigzag pattern (Row by Row):
+Row 1: PAHN
+Row 2: APLSIIG
+Row 3: YIR
+
+Final Zigzag Conversion Output :  PAHNAPLSIIGYIR
+
+ Zigzag pattern (Row by Row):
+Row 1: HI
+Row 2: EZG
+Row 3: LOZG
+Row 4: LA
+
+Final zigzag conversion output :  HIEZGLOZGLA
+
+
+'''

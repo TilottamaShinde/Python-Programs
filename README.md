@@ -25,3 +25,4 @@ It has programs such as: -
 20. move_zeros_end
 21. Zigzag Conversion
 22. Find_second_largest
+23. Find common elements from lists

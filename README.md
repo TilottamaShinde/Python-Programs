@@ -27,3 +27,4 @@ It has programs such as: -
 22. Find_second_largest
 23. Find common elements from lists
 24. Remove duplicates from list using set
+25. Find Common Elemenst from lists using set

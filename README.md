@@ -28,3 +28,5 @@ It has programs such as: -
 23. Find common elements from lists
 24. Remove duplicates from list using set
 25. Find Common Elemenst from lists using set
+26. Find missing number
+27. Count Word Frequency

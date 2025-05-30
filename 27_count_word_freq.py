@@ -16,3 +16,16 @@ word_freq = count_word_frequency(sentence)
 print("Word Frequencies : ")
 for word, count in word_freq.items():
     print(f"{word}: {count}")
+'''
+Output: 
+
+Word Frequencies : 
+hello: 2
+wrold: 1
+python: 3
+is: 2
+fun: 1
+and: 1
+powerful: 1
+
+'''

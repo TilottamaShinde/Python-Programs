@@ -19,3 +19,11 @@ for link in soup.find_all('a'):
     text = link.get_text()
     href = link.get('href')
     print(f"Text: {link.text} | URL: {link['href']}")
+'''
+Output 
+
+Text: Google | URL: https://www.google.com
+Text: GitHub | URL: https://www.github.com
+Text: Stack Overflow | URL: https://stackoverflow.com
+
+'''

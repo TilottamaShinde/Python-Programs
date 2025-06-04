@@ -32,3 +32,4 @@ It has programs such as: -
 27. Count Word Frequency
 28. Simple Beautiful Soup Program
 29. Extract_links - extracting all links (<a> tags) along with their text and href (URLs).
+30. Extract Job Posting

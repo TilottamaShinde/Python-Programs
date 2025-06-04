@@ -31,3 +31,9 @@ for job in jobs:
     location = job.find('span', class_ = 'location').text
     print(f"{title} at {company} ({location})")
 
+"""
+Output 
+Python Developer at Tech Corp (Remote)
+Data Analyst at DataWiz (New York)
+Backend Engineer at CodeWorks (San Francisco)
+"""

@@ -34,3 +34,4 @@ It has programs such as: -
 29. Extract_links - extracting all links (<a> tags) along with their text and href (URLs).
 30. Extract Job Posting
 31. Scrapy Quotes
+32. Random Password Generator

@@ -9,5 +9,5 @@ def two_sum(nums, target):
         num_map[num] = i
 
 
-#Exmaple usage
+#Example usage
 print(two_sum([1,6,7,3], 9))

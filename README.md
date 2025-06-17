@@ -37,3 +37,4 @@ It has programs such as: -
 32. Random Password Generator
 33. Number Guessing Game
 34. Two Sum using Brute Force Method
+35. Two Sum using Hash Map Method
